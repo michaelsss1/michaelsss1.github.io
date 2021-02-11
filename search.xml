@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>redline的使用姿势</title>
+      <link href="2021/02/11/redline/"/>
+      <url>2021/02/11/redline/</url>
+      
+        <content type="html"><![CDATA[<p>-</p><h1 id="如何使用redline对远程机器进行信息收集"><a href="#如何使用redline对远程机器进行信息收集" class="headerlink" title="如何使用redline对远程机器进行信息收集"></a>如何使用redline对远程机器进行信息收集</h1><figure class="highlight powershell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">write-host</span> <span class="string">&quot;test&quot;</span></span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> incident response </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> incident response </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
